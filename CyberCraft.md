@@ -2,13 +2,13 @@
 # **CyberCraft - Cyber Security Education in Minecraft: Education Edition**
 
 # Activity Overview
-This activity will provide learning with the opportunity to learn about a variety of cyber security concepts in a popular game-based learning platform, Minecraft: Education Edition.
+This activity will provide learners with the opportunity to learn about a variety of cyber security concepts in a popular game-based learning platform, Minecraft: Education Edition.
 This lesson is one example, "Cyber Defender". For a complete list of the cyber security lessons in Minecraft Education endorsed, approved or developed by the CyberWEST "CyberCraft" project, see the resources linked at the bottom of this page.
 # Session Duration
-50 minutes
+50-60 minutes
 
 # Curriculum Links and Key Concepts
-* [AQA Cyber Security]([https://github.com/uwe-cyber/Incident_Response_Management/tree/main](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content#Cyber_security))
+* [AQA Cyber Security](https://www.aqa.org.uk/subjects/computer-science-and-it/gcse/computer-science-8525/subject-content#Cyber_security)
 
 # Activity Setup
 <p>The lession requires the following:
