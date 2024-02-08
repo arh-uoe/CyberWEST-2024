@@ -23,7 +23,7 @@ This lesson is one example, "Cyber Defender". For a complete list of the cyber s
   <li>https://education.minecraft.net - Library  
   <li>https://self.events.data.microsoft.com/ - Error Reporting & Logging 
   </ul>
- <li>
+</ul>
 </p>
 
 # Activity Exercises
