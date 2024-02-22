@@ -68,7 +68,7 @@ This lesson is one example, "Cyber Defender". For a complete list of the cyber s
 
 * [Minecraft Cyber Defender Trailer](https://www.youtube.com/watch?v=WXemR_xwZxk)
 * [Minecraft Cyber Defender educator guide](https://education.minecraft.net/lessonsupportfiles/1668249737719395-Cyber%20Defender_EDU%20Guide_FINAL_09.22.23.docx)
-* [Minecraft Cyber Defender facilitator slide deck](https://education.minecraft.net/lessonsupportfiles/3526632476164451-Cyber%20Defender_EDU%20Presentation_Draft%203_09.05.23.pptx)
+* [Minecraft Cyber Defender facilitator slide deck](https://github.com/arh-uoe/CyberWEST-2024/blob/main/Cyber%20Defender_EDU%20Presentation_ARH-UoE.pdf)
 * [Microsoft Security and Compliance Fundamentals](https://learn.microsoft.com/en-us/training/paths/describe-concepts-of-security-compliance-identity/)
 * [Explore cyber security careers](https://learn.microsoft.com/en-us/training/modules/cybersecurity-careers-minecraft-education-cyber-defender/)
 </ul>
