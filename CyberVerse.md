@@ -27,7 +27,9 @@ CyberTAP will have the primary game mode, "The Battle for the CyberVerse" which 
 Intro description.
 
 <ul>
-<li> ...
+  <li> For this introductory workshop, open the battle academy boxes, lay out all of the items in the box.
+  <li> Follow the instructions on the "Read this first" sheet!
+  <li>  
 </ul> 
 <p>
 
@@ -41,8 +43,8 @@ Intro description.
 
 # Further Resources
 
-* Playmat creation
-* Trading card design principles
-* Trading card game mechanics
-* Threat modelling Collection
+* [Minecraft Education: Teacher academy - 101, 201, 301]()
+* [Minecraft Education Facebook: Teacher's Lounge]()
+* [Minecraft Education: Ambassador 1:2:1 sessions]()
+* [Minecraft Education: Teach cybersecurity concepts with Minecraft Education]()
 </ul>
