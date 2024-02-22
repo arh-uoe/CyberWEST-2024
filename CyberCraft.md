@@ -49,7 +49,7 @@ This lesson is one example, "Cyber Defender". For a complete list of the cyber s
 <li> After the tutorial finishes, students can interact with the mailbox again to begin the tower defence game properly; guides and mini-tutorials will feature periodically to provide gameplay and cyber security information, tips and tricks.
 <li> Students may spend on average 15 minutes playing though the shortened forest game; if they complete it more quickly, encourage them to explore the library or other game modes. (15 minutes)
 <li> Ask students to quit the lesson by pressing escape, then choosing "Finish the lesson", and asking them to click on "Get Certificate" to download, print and sign their Cyber Defender certificate. Then they can return to Minecraft, click "Exit Lesson", then "Save and Exit" in the dialogue that follows.
-<li> Advance the slides to the "Check for understanding" slide; facilitate discussion of the learning objectives listed here, and finish up the lession. If appropriate you may wish to signpost the students to the "Microsoft Security and Compliance Fundamentals" and/or "Ecplote cyber security careers" links found at the bottom of this page. (10 mins)
+<li> Advance the slides to the "Check for understanding" slide; facilitate discussion of the learning objectives listed here, and finish up the lession. If appropriate you may wish to signpost the students to the "Microsoft Security and Compliance Fundamentals" and/or "Explore cyber security careers" links found at the bottom of this page. (10 mins)
 </ul> 
 <p>
 
