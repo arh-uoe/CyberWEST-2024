@@ -41,8 +41,8 @@ Intro description.
 
 # Further Resources
 
-* [Minecraft Education: Teacher academy - 101, 201, 301]()
-* [Minecraft Education Facebook: Teacher's Lounge]()
-* [Minecraft Education: Ambassador 1:2:1 sessions]()
-* [Minecraft Education: Teach cybersecurity concepts with Minecraft Education]()
+* Playmat creation
+* Trading card design principles
+* Trading card game mechanics
+* Threat modelling Collection
 </ul>
